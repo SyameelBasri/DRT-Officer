@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "547670352000",
+    "firebase_url": "https://drt-app-v0.firebaseio.com",
+    "project_id": "drt-app-v0",
+    "storage_bucket": "drt-app-v0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547670352000:android:f1720bb4afa4c18fe70665",
+        "android_client_info": {
+          "package_name": "com.example.drt_officer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547670352000-scmev5ip3ro5otsu2ai91jckavtj1snj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWVg-p7g-Pb0rXtpnF3WoZ5YfziLtfIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547670352000-scmev5ip3ro5otsu2ai91jckavtj1snj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547670352000:android:8084db009f0c60cae70665",
+        "android_client_info": {
+          "package_name": "com.example.realtime_ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547670352000-scmev5ip3ro5otsu2ai91jckavtj1snj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWVg-p7g-Pb0rXtpnF3WoZ5YfziLtfIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547670352000-scmev5ip3ro5otsu2ai91jckavtj1snj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

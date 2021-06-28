@@ -1,0 +1,50 @@
+name: realtime_ocr
+description: A new Flutter application.
+
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  camera: ^0.5.8+17
+  image: ^2.1.12
+  firebase_auth: ^0.14.0+5
+  firebase_core: ^0.4.0+9
+  cloud_firestore: ^0.12.9+4
+  firebase_ml_vision: ^0.9.4
+  image_picker: ^0.6.7+3
+  path_provider: ^1.6.11
+  qrscan: ^0.2.21
+  http: ^0.12.2
+  flutter_spinkit: "^4.1.2"
+  change_app_package_name: ^0.1.2
+  material_design_icons_flutter: 4.0.5855
+  google_maps_flutter: ^1.0.3
+  google_maps_place_picker: ^1.0.1
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
